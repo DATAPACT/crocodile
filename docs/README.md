@@ -1,7 +1,7 @@
 <div class="tool-header">
   <h1 style="margin:0 0 12px 0;">Crocodile</h1>
-  <a href="https://www.sintef.no/" style="display:inline-block;">
-    <img src="./images/sintef_logo.svg" alt="SINTEF logo" style="height:64px; width:auto;">
+  <a href="https://www.sintef.no/">
+    <img src="./images/sintef_logo.svg" alt="SINTEF logo" width="220">
   </a>
 </div>
 
